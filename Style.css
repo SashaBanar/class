@@ -1,0 +1,19 @@
+p{
+font-size: 30px;
+position: relative;
+left: 11%;
+color: aliceblue;
+}
+.lason{
+	position: relative;
+	left: 36%;
+}
+body{
+	background-color: rgb(35, 35, 35);
+}
+b{
+	color: aliceblue;
+	font-size: 20px;
+	position: relative;
+	left: 10%;
+}
